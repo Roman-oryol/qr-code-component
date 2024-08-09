@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "QR code",
+  "name": "QR code component",
   "icons": [
     {
       "src": "favicon.ico",
